@@ -1,0 +1,56 @@
+ 
+
+body {background:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/background-of-green-and-healthy-grass-royalty-free-image-1586800097.jpg?crop=0.68819xw:1xh;center,top&resize=480:*) ;
+    font-family: Helvetica, Ariel, sans-serif;
+    }
+    #chbox{
+    margin: 15px auto;
+    text-align: center;
+    }
+    #hi{
+        margin: 15px auto;
+        margin-top: 15%;
+        width: 300px;
+        border: 1px solid black;
+        border-radius: 12px;
+        background-color: white;
+        text-align: center;
+        transform: rotate(-9deg);
+        box-shadow: 5px 5px 5px 5px rgb(41, 41, 41) ;
+        }
+    #yo .who .rank .blank{
+        text-align: center;
+    }
+    #yo{
+        font-size: 3em;
+        color: white;
+        display: block;
+        padding-top: 0.1em;
+        padding-bottom: 00em;
+        margin: 0em;
+        letter-spacing: 0.3em;
+        font-weight: 500;
+        background-color: tomato;
+        border-radius: 12px 12px 0px 0px;
+        }
+    #who{
+        color: white;
+        padding-top: 0.1em;
+        padding-bottom: 0.1em;
+        margin: 0em;
+        background-color: tomato
+        }
+    #rank{
+        font-size: 2.1em;
+        width: 270px;
+        padding-top: 0em;
+        padding-bottom: 0em;
+        margin: 0.2em;
+        color: black;
+        }
+    #blank{
+        background-color: tomato;
+        margin-bottom: 0em;
+        border-radius: 0px 0px 12px 12px;
+        }
+        
